@@ -163,8 +163,8 @@ package chap02.ex01;
            char lastName  = '\ua00d' ;//성 
 
            
-           System.out.println("나의 이름은 "+ lastName +""+fisrtName1+firstName2 +"입니다");
-           System.out.println("나의이름은 " %c %c %c );
+         
+     
            
            // 출력 내용 : 나의 이름은 지 완기 입니다 . 
            // println () : 출력 
